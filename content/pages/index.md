@@ -2,9 +2,7 @@
 sections:
   - type: hero_section
     title: Raw_treats_by_mila
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: Raw vegan desserts and chocolate
     actions:
       - label: Contact Me
         url: /contact
