@@ -30,6 +30,7 @@ sections:
         image_alt: Logo 1
         image_align: center
         title: Cakes
+        title_align: center
       - image: images/logo-2.svg
         image_alt: Logo 2
         image_align: center
