@@ -18,7 +18,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    image: images/watercolor.png
+    image: images/десерты.png
   - type: grid_section
     title: Trusted by Companies Big and Small
     subtitle: Who I work with
