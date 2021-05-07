@@ -232,5 +232,5 @@ seo:
       value: images/personal-preview.png
       relativeUrl: true
 layout: advanced
-title: 'Mila '
+title: Mila G
 ---
