@@ -26,7 +26,7 @@ sections:
     subtitle: Who I work with
     align: center
     grid_items:
-      - image: images/logo-1.svg
+      - image: images/десерты.png
         image_alt: Logo 1
         image_align: center
         title: Cakes
