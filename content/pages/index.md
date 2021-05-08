@@ -119,7 +119,7 @@ sections:
             no_follow: false
             type: action
           - url: '#'
-            style: primary
+            style: link
             has_icon: false
             icon: arrow-left
             icon_position: right
