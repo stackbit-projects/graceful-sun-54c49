@@ -73,7 +73,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lazed curds
+          - label: Glazed curds
             url: '#'
             style: link
             has_icon: false
