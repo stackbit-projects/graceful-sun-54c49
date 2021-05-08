@@ -61,7 +61,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/пирожки.jpg
-      - image: images/logo-2.svg
+      - image: images/сырки.jpg
         image_alt: Logo 2
         image_align: center
       - image: images/logo-3.svg
