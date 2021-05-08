@@ -40,8 +40,7 @@ sections:
             type: action
         actions_align: center
         image_position: top
-      - title: Small cakes
-        title_align: center
+      - title_align: center
         content_align: center
         actions:
           - label: Small cakes
