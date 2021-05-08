@@ -40,7 +40,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-        image_position: bottom
+        image_position: top
       - title: Small cakes
         title_align: left
         content_align: left
