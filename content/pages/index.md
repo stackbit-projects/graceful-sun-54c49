@@ -119,6 +119,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: center
       - image: images/logo-8.svg
         image_alt: Logo 8
         image_align: center
