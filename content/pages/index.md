@@ -44,7 +44,7 @@ sections:
         title_align: center
         content_align: center
         actions:
-          - label: lorem-ipsumS
+          - label: Small cakes
             url: '#'
             style: link
             has_icon: false
