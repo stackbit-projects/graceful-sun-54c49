@@ -29,7 +29,7 @@ sections:
         image_align: center
         title: Cakes
         title_align: center
-      - title: Reviews
+      - title: Small cakes
         title_align: left
         content_align: left
         actions: []
