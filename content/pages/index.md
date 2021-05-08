@@ -150,6 +150,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+        actions_align: center
     grid_cols: four
     grid_gap_horiz: medium
     grid_gap_vert: medium
