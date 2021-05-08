@@ -42,7 +42,7 @@ sections:
         image_position: top
       - title: Small cakes
         title_align: center
-        content_align: left
+        content_align: center
         actions: []
         actions_align: left
         actions_width: auto
