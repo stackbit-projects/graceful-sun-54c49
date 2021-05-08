@@ -93,9 +93,6 @@ sections:
             type: action
         actions_align: center
         image_position: top
-      - image: images/logo-5.svg
-        image_alt: Logo 5
-        image_align: center
       - image: images/Mousse dsserts.jpg
         image_alt: Logo 6
         image_align: center
