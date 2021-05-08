@@ -7,15 +7,6 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-      - url: '#'
-        style: primary
-        has_icon: false
-        icon: instagram
-        icon_position: right
-        new_window: false
-        no_follow: false
-        type: action
-        label: order
     image_alt: A smiling woman
     media_position: right
     media_width: fifty
