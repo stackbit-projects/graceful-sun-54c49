@@ -83,6 +83,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
+        image_position: top
       - image: images/logo-3.svg
         image_alt: Logo 3
         image_align: center
