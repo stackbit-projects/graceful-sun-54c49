@@ -119,8 +119,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: m-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
