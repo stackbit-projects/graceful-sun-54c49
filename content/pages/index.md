@@ -9,7 +9,7 @@ sections:
         style: primary
       - url: '#'
         style: primary
-        has_icon: true
+        has_icon: false
         icon: instagram
         icon_position: right
         new_window: false
