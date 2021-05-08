@@ -30,7 +30,7 @@ sections:
         title: Cakes
         title_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Cakes
             url: '#'
             style: link
             has_icon: false
