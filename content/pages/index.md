@@ -141,7 +141,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: lorem-ipsum
+          - label: Honey cakes
             url: '#'
             style: link
             has_icon: false
