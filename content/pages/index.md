@@ -93,9 +93,6 @@ sections:
             type: action
         actions_align: center
         image_position: top
-      - image: images/logo-3.svg
-        image_alt: Logo 3
-        image_align: center
       - image: images/logo-4.svg
         image_alt: Logo 4
         image_align: center
