@@ -30,7 +30,6 @@ sections:
         title: Cakes
         title_align: center
       - title: Reviews
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
