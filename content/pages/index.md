@@ -106,7 +106,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-        title: Mousse desser
+        title: Mousse desserts
       - image: images/logo-7.svg
         image_alt: Logo 7
         image_align: center
