@@ -154,8 +154,7 @@ sections:
     grid_gap_horiz: medium
     grid_gap_vert: medium
     actions:
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
