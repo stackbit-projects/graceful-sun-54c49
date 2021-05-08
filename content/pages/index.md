@@ -7,8 +7,7 @@ sections:
       - label: Contact Me
         url: /contact
         style: primary
-      - label: lorem-ipsum
-        url: '#'
+      - url: '#'
         style: link
         has_icon: false
         icon: arrow-left
