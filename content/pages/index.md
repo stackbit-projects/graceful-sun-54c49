@@ -132,7 +132,7 @@ sections:
         image_alt: Logo 8
         image_align: center
         actions:
-          - label: lorem-ipsum
+          - label: Honey cakes
             url: '#'
             style: link
             has_icon: false
