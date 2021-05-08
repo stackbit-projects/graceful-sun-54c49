@@ -107,6 +107,7 @@ sections:
             no_follow: false
             type: action
         title: Mousse desserts
+        actions_align: center
       - image: images/logo-7.svg
         image_alt: Logo 7
         image_align: center
