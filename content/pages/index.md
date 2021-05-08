@@ -21,7 +21,6 @@ sections:
     image: images/десерты.png
   - type: grid_section
     title: Vegan desserts and chocolate
-    subtitle: Who I work with
     align: center
     grid_items:
       - image: images/торт.jpg
