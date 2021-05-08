@@ -27,7 +27,6 @@ sections:
       - image: images/торт.jpg
         image_alt: Logo 1
         image_align: center
-        title: Cakes
         title_align: center
         actions:
           - label: Cakes
