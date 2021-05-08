@@ -119,7 +119,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - label: loreVam-ipsum
+          - label: m-ipsum
             url: '#'
             style: link
             has_icon: false
