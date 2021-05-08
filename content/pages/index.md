@@ -150,7 +150,7 @@ sections:
             no_follow: false
             type: action
         actions_align: center
-    grid_cols: four
+    grid_cols: three
     grid_gap_horiz: medium
     grid_gap_vert: medium
     actions:
