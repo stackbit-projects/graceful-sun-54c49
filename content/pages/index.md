@@ -46,7 +46,7 @@ sections:
         actions:
           - label: Small cakes
             url: '#'
-            style: link
+            style: primary
             has_icon: false
             icon: arrow-left
             icon_position: right
