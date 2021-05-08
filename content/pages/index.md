@@ -65,8 +65,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         actions:
-          - label: lorem-ipsum
-            url: '#'
+          - url: '#'
             style: link
             has_icon: false
             icon: arrow-left
