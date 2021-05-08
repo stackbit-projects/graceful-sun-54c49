@@ -105,7 +105,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            label: Mou
+            label: Mousse
         title: Mousse desserts
         actions_align: center
       - image: images/logo-7.svg
