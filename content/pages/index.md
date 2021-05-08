@@ -29,7 +29,7 @@ sections:
         image_align: center
         title: Cakes
         title_align: center
-      - title: lorem-ipsum
+      - title: Reviews
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
