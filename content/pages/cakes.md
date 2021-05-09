@@ -1,6 +1,6 @@
 ---
 sections:
-  - title: lorem-ipsum
+  - title: Cakes
     subtitle: lorem-ipsum
     content: >-
       ## Lorem ipsum
