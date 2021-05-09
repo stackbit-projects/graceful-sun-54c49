@@ -47,7 +47,7 @@ sections:
         title: The most popular vegan baked cake
         subtitle: with almond (honey biscuits and coconut cream)
         image: images/22.jpg
-      - title: lorem-ipsumТорт
+      - title: Торт из черной смородины
         subtitle: lorem-ipsum
         title_align: left
         content_align: left
