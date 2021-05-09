@@ -20,8 +20,6 @@ sections:
     actions: []
     grid_items:
       - title_align: left
-        content: |
-          ##
         content_align: left
         actions: []
         actions_align: center
