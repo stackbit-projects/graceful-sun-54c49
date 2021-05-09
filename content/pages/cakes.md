@@ -33,8 +33,7 @@ sections:
         title: Black currant cake
         subtitle: with coconaut cream
         image: images/11.jpg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
