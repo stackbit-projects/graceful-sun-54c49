@@ -57,6 +57,7 @@ sections:
         type: grid_item
         title: The most popular vegan baked cake
         subtitle: with almond (honey biscuits and coconut cream)
+        image: images/22.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
