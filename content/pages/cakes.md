@@ -56,6 +56,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: The most popular vegan baked cake
+        subtitle: with
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
