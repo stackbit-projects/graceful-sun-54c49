@@ -19,7 +19,7 @@ sections:
   - title: Cake Types
     actions: []
     grid_items:
-      - title: Dl
+      - title: Dlack
         subtitle: lorem-ipsum
         title_align: left
         content: >-
