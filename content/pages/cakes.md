@@ -48,7 +48,6 @@ sections:
         subtitle: with almond (honey biscuits and coconut cream)
         image: images/22.jpg
       - title: 'Торт из черной смородины, кокосовых сливок и белого шоколада'
-        subtitle: lorem-ipsum
         title_align: left
         content_align: left
         actions: []
