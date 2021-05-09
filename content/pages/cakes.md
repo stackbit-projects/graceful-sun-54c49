@@ -17,7 +17,6 @@ sections:
     type: hero_section
     image: images/33.jpg
   - title: Cake Types
-    subtitle: lorem-ipsum
     actions: []
     grid_items: []
     grid_cols: three
