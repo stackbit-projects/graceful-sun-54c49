@@ -61,7 +61,7 @@ sections:
         type: grid_item
         subtitle: >-
           Внутри ягод - карамель и миндальные коржи (мука заменена на нутовую -
-          версия безорехового торта для алергиков)
+          версия безорехового торта для аллергиков)
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
