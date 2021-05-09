@@ -78,5 +78,4 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: advanced
-title: 'Vegan '
 ---
