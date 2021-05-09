@@ -34,8 +34,6 @@ sections:
         subtitle: with coconaut cream
         image: images/11.jpg
       - title_align: left
-        content: |
-          ##
         content_align: left
         actions: []
         actions_align: left
