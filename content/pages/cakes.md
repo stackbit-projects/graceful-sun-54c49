@@ -42,7 +42,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Black curr
+        title: Black currant cake
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
