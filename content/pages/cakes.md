@@ -16,7 +16,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/33.jpg
-  - title: lorem-ipsum
+  - title: lorem-ipsu
     subtitle: lorem-ipsum
     actions: []
     grid_items: []
