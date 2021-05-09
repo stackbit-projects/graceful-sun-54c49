@@ -78,5 +78,5 @@ seo:
   extra: []
   type: stackbit_page_meta
 layout: advanced
-title: 'The most popular vegan '
+title: The most popular vegan ba
 ---
