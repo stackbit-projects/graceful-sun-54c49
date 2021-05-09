@@ -43,6 +43,7 @@ sections:
         type: grid_item
         title: Black currant cake
         subtitle: with coconaut cream
+        image: images/11.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
