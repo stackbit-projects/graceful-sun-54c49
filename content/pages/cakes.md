@@ -19,7 +19,7 @@ sections:
   - title: Cake Types
     actions: []
     grid_items:
-      - title_align: left
+      - title_align: center
         content_align: left
         actions: []
         actions_align: center
