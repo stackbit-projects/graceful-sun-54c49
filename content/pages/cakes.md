@@ -59,9 +59,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: >-
-          Внутри ягод - карамель и миндальные коржи (МУКА ЗАМЕНЕНА НА НУТОВУЮ -
-          ВЕРС
+        subtitle: Внутри ягод - карамель и миндальные коржи (
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
