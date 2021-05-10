@@ -86,7 +86,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Черная смородина и ваниль с шоколадным ганашем
-        subtitle: 'Торт покрытый '
+        subtitle: 'Торт покрытый веганским домашним '
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
