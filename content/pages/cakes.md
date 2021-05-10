@@ -79,7 +79,7 @@ sections:
         title: Черная смородина и ваниль с шоколадным ганашем
         subtitle: Торт покрытый веганским домашним шоколадом с супер пудрами
         image: images/44.jpg
-      - subtitle: Торт на мин
+      - subtitle: 'Торт на миндальных '
         title_align: left
         content: >-
           ## Lorem ipsum
