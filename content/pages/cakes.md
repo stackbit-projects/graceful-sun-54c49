@@ -113,8 +113,7 @@ sections:
         title: Beautiful heart shape raw cake
         subtitle: Cake with black currant and vanila swirl and chocolate ganach inside
         image: images/66.jpg
-      - subtitle: lorem-ipsum
-        title_align: left
+      - title_align: left
         content: >-
           ## Lorem ipsum
 
