@@ -29,7 +29,6 @@ sections:
         title_align: center
         actions:
           - label: Cakes
-            url: '#'
             style: primary
             has_icon: false
             icon: arrow-left
