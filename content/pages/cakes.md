@@ -111,7 +111,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Beautiful heart shape raw cake
-        subtitle: Cake with black currant and vanila swirl and ch
+        subtitle: Cake with black currant and vanila swirl and cho
       - title: lorem-ipsum
         subtitle: lorem-ipsum
         title_align: left
