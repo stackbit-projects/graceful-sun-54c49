@@ -79,8 +79,7 @@ sections:
         title: Черная смородина и ваниль с шоколадным ганашем
         subtitle: Торт покрытый веганским домашним шоколадом с супер пудрами
         image: images/44.jpg
-      - title: lorem-ipsum
-        subtitle: lorem-ipsum
+      - subtitle: lorem-ipsum
         title_align: left
         content: >-
           ## Lorem ipsum
