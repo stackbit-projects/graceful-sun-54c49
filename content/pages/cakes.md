@@ -78,6 +78,7 @@ sections:
         type: grid_item
         title: Черная смородина и ваниль с шоколадным ганашем
         subtitle: Торт покрытый веганским домашним шоколадом с супер пудрами
+        image: images/44.jpg
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
