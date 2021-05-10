@@ -102,7 +102,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: 'Торт медовый с легкой кислинской из '
+        title: >-
+          Торт медовый с легкой кислинской из миндальной ферментированной
+          сметаны
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
