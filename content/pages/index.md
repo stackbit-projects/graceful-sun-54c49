@@ -36,6 +36,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
+            url: /
         actions_align: center
         image_position: top
       - title_align: center
