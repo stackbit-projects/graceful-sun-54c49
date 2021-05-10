@@ -97,7 +97,7 @@ sections:
           Торт медовый с легкой кислинской из миндальной ферментированной
           сметаны
         image: images/55.jpg
-      - title: lorem-ipsumBeau
+      - title: lorem-ipsumBeautif
         subtitle: lorem-ipsum
         title_align: left
         content: |
