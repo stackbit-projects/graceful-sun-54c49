@@ -86,7 +86,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Черная смородина и ваниль с шокола
+        title: Черная смородина и ваниль с шоколадным ганишем
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
