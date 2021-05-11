@@ -62,8 +62,6 @@ sections:
         type: grid_item
         image: images/3.jpg
       - title_align: left
-        content: |
-          #
         content_align: left
         actions: []
         actions_align: left
