@@ -113,7 +113,7 @@ sections:
         content_align: left
         actions:
           - label: lorem-ipsum
-            url: /mini
+            url: '/mini '
             style: link
             has_icon: false
             icon: arrow-left
