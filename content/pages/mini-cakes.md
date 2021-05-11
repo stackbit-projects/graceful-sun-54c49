@@ -48,7 +48,7 @@ sections:
         title: Black currant and vanila
         subtitle: with blueberry
         image: images/2.jpg
-      - title: 'Торт из черной смородины, кокосовых сливок и белого шоколада'
+      - title: Mango/strawberry
         title_align: left
         content_align: left
         actions: []
