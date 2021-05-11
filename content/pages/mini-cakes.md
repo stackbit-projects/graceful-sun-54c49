@@ -75,7 +75,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Mango/raspberry
-        image: images/44.jpg
+        image: images/4.jpg
       - subtitle: Торт на миндальных безглютеновых коржах и шоколадной карамели
         title_align: left
         content: |
