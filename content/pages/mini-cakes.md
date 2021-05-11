@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/pleasant-lettuce.jpg
-  - title: Cake Types
+  - title: Mini cakes Types
     actions: []
     grid_items:
       - title_align: center
