@@ -90,9 +90,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: >-
-          Торт медовый с легкой кислинской из миндальной ферментированной
-          сметаны
+        title: Chocolate mouss
         image: images/55.jpg
       - title_align: left
         content: |
