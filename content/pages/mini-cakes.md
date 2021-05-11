@@ -60,7 +60,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/unique-jupiter.jpg
+        image: images/3.jpg
       - title_align: left
         content: |
           #
