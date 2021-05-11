@@ -75,7 +75,6 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Mango/raspberry
-        subtitle: Торт покрытый веганским домашним шоколадом с супер пудрами
         image: images/44.jpg
       - subtitle: Торт на миндальных безглютеновых коржах и шоколадной карамели
         title_align: left
