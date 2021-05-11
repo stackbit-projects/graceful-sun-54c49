@@ -32,7 +32,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Macadamia Vanila
-        subtitle: mouse vegan cake
+        subtitle: mouse vegan cake -delicious light dessert with subtle sourness
         image: images/1.jpg
       - title_align: left
         content_align: left
