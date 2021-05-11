@@ -106,7 +106,6 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Raspberry/basil
-        subtitle: Cake with black currant and vanila swirl and chocolate ganach inside
         image: images/66.jpg
       - title_align: left
         content: |
