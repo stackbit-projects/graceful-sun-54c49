@@ -45,7 +45,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: The most popular vegan baked cake
+        title: Black currant and vanila
         subtitle: with almond (honey biscuits and coconut cream)
         image: images/22.jpg
       - title: 'Торт из черной смородины, кокосовых сливок и белого шоколада'
