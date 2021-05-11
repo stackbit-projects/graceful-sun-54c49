@@ -32,7 +32,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Blood orange with chocolate glazer
-        subtitle: with coconaut cream
+        subtitle: with chocolate glazer
         image: images/11.jpg
       - title_align: left
         content_align: left
