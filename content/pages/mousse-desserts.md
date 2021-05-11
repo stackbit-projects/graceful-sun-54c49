@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/pleasant-lettuce.jpg
-  - title: Mini cakes Types
+  - title: Mousse desserts Types
     actions: []
     grid_items:
       - title_align: center
