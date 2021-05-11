@@ -105,7 +105,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Beautiful heart shape raw cake
+        title: Raspberry/basil
         subtitle: Cake with black currant and vanila swirl and chocolate ganach inside
         image: images/66.jpg
       - title_align: left
