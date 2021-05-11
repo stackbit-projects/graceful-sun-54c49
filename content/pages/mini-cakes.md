@@ -60,9 +60,6 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: >-
-          Внутри ягод - карамель и миндальные коржи (мука заменена на нутовую -
-          версия безорехового торта для аллергиков)
         image: images/unique-jupiter.jpg
       - title_align: left
         content: |
