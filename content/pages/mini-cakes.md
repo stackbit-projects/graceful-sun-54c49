@@ -106,7 +106,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Raspberry/basil
-        image: images/66.jpg
+        image: images/6.jpg
       - title_align: left
         content: |
           #
