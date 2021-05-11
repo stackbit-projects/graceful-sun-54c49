@@ -33,7 +33,7 @@ sections:
         type: grid_item
         title: Blood orange
         subtitle: with chocolate glazer
-        image: images/11.jpg
+        image: images/1.jpg
       - title_align: left
         content_align: left
         actions: []
