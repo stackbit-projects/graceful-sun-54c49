@@ -43,7 +43,7 @@ sections:
         content_align: center
         actions:
           - label: Small cakes
-            url: /mi
+            url: /mini
             style: primary
             has_icon: false
             icon: arrow-left
