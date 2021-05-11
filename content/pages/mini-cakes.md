@@ -91,7 +91,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Chocolate mouss
-        image: images/55.jpg
+        image: images/5.jpg
       - title_align: left
         content: |
           #
