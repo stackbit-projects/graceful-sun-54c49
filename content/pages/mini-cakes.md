@@ -46,7 +46,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Black currant and vanila
-        subtitle: with almond (honey biscuits and coconut cream)
+        subtitle: with blueberry
         image: images/22.jpg
       - title: 'Торт из черной смородины, кокосовых сливок и белого шоколада'
         title_align: left
