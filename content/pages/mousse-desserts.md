@@ -83,7 +83,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: 'Зеленое яблоко, лайм, базилик'
-        image: images/4.jpg
+        image: images/cool-cedar.jpg
         subtitle: Легкий с кислинкой и освежающим вкусом зеленого яблока
       - subtitle: wiht jam
         title_align: left
