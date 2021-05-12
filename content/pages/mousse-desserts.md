@@ -84,7 +84,7 @@ sections:
         type: grid_item
         title: Зеленое яблоко
         image: images/4.jpg
-        subtitle: 'Лайм, базилик. Легкий с кислинкой и освежающим вкусом'
+        subtitle: 'Лайм, базилик. Легкий  зеленого с кислинкой и освежающим вкусом'
       - subtitle: wiht jam
         title_align: left
         content_align: left
