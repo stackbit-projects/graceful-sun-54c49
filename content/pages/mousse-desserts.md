@@ -56,7 +56,7 @@ sections:
         type: grid_item
         title: About Pink
         subtitle: They full in nutrition save and have beatiful nude natural colors
-        image: images/2.jpg
+        image: images/important-kangaroo.jpg
       - title: Mango/strawberry
         title_align: left
         content_align: left
