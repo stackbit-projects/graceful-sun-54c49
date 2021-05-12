@@ -99,7 +99,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Ferrero Roche
-        image: images/fierce-iron.jpg
+        image: images/pleasant-mars.jpg
       - title_align: left
         content_align: left
         actions: []
