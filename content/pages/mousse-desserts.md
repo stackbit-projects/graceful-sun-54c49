@@ -100,8 +100,6 @@ sections:
         title: Манго и маракуйя
         image: images/fierce-iron.jpg
       - title_align: left
-        content: |
-          #
         content_align: left
         actions: []
         actions_align: left
