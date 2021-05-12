@@ -97,7 +97,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Chocolate mouss
+        title: Манго и маракуйя
         image: images/5.jpg
       - title_align: left
         content: |
