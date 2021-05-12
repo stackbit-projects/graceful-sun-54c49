@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/friendly-zebra.jpg
-  - title: Mousse desserts Types
+  - title: Vegan chocolate
     actions: []
     grid_items:
       - title_align: center
