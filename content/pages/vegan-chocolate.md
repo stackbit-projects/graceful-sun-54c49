@@ -70,7 +70,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        image: images/great-sage.jpg
+        image: images/modern-amaranth.jpg
         subtitle: with only healthy ingredients
       - title_align: left
         content_align: left
