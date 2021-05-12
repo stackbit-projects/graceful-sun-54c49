@@ -83,7 +83,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: 'Зеленое яблоко, лайм, базилик'
+        title: Snickers from dutes and almouds and peanut butter
         image: images/cool-cedar.jpg
         subtitle: Легкий с кислинкой и освежающим вкусом зеленого яблока
       - subtitle: 'Нежный мусс и шелковистый гель, крем с кусочками манго'
