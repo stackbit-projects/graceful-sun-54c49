@@ -136,7 +136,7 @@ sections:
         type: grid_item
         subtitle: >-
           Семь слоев - нежный безглютеновый бисквит; малиновый крем с кусочками
-          запеченного перчика, гель
+          запеченного перчика, гель, хрустящий малиновый 
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
