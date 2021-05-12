@@ -55,7 +55,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: About Pink
-        subtitle: They full in nutrition save and have beatiful nude natural colors
+        subtitle: With only natural coloring withoutarificfl adding
         image: images/important-kangaroo.jpg
       - title: Mango/strawberry
         title_align: left
