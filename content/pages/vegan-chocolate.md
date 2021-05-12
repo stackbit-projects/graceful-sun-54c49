@@ -84,7 +84,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Snickers from dutes and almouds and peanut butter
-        image: images/cool-cedar.jpg
+        image: images/terrific-mars.jpg
         subtitle: Best dessert for those don't eat refind sugar
       - subtitle: 'Нежный мусс и шелковистый гель, крем с кусочками манго'
         title_align: left
