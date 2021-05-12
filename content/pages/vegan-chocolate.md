@@ -98,7 +98,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Манго и маракуйя
+        title: Ferrero Roche
         image: images/fierce-iron.jpg
       - title_align: left
         content_align: left
