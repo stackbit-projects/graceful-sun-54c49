@@ -112,7 +112,9 @@ sections:
         type: grid_item
         title: 'Малина, красный апельсин и сладкий перец'
         image: images/6.jpg
-        subtitle: 'Семь слоев; нежный безглютеновый бисквит, , малиновый крем'
+        subtitle: >-
+          Семь слоев; нежный безглютеновый бисквит, , малиновый крем с кусочками
+          запеченного перчика, 
       - title_align: left
         content_align: left
         actions:
