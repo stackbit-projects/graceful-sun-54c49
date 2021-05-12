@@ -46,7 +46,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: About Pink
-        subtitle: They full in nutrition save and have beatiful
+        subtitle: They full in nutrition save and have beatiful nude natural colors
         image: images/2.jpg
       - title: Mango/strawberry
         title_align: left
