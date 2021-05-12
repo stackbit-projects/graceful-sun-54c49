@@ -45,7 +45,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Black currant and vanila
+        title: About Pink
         subtitle: with blueberry
         image: images/2.jpg
       - title: Mango/strawberry
