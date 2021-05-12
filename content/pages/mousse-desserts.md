@@ -115,8 +115,7 @@ sections:
       - title_align: left
         content_align: left
         actions:
-          - label: lorem-ipsum
-            url: /mini cakes
+          - url: /mini cakes
             style: link
             has_icon: false
             icon: arrow-left
