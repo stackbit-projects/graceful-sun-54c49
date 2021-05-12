@@ -86,7 +86,7 @@ sections:
         title: Snickers from dutes and almouds and peanut butter
         image: images/terrific-mars.jpg
         subtitle: Best dessert for those don't eat refind sugar
-      - subtitle: 'Нежный мусс и шелковистый гель, крем с кусочками манго'
+      - subtitle: Combination of chocolate hareinut/light aroma of coffee and caramel
         title_align: left
         content_align: left
         actions: []
