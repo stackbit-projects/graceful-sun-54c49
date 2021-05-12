@@ -85,7 +85,7 @@ sections:
         title: 'Зеленое яблоко, лайм, базилик'
         image: images/cool-cedar.jpg
         subtitle: Легкий с кислинкой и освежающим вкусом зеленого яблока
-      - subtitle: wiht jam
+      - subtitle: 'Нежный мусс и шелковистый гель, крем с кусочками манго'
         title_align: left
         content_align: left
         actions: []
