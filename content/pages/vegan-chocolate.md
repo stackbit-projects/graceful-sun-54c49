@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/friendly-zebra.jpg
+    image: images/great-sycamore.jpg
   - title: Vegan chocolate
     actions: []
     grid_items:
