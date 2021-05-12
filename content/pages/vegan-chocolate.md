@@ -41,7 +41,9 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Dark organic chocolate
-        subtitle: mouse vegan cake -delicious light dessert with subtle sourness
+        subtitle: >-
+          With organic cacao butter/organic cacao powder/organic agave syrup and
+          blue spirulina/purple sweet potato powder
         image: images/wonderful-petunia.jpg
       - title_align: left
         content_align: left
