@@ -55,7 +55,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: About Pink
+        title: Веганская версия шоколада
         subtitle: With only natural coloring withoutarificfl adding
         image: images/happy-broccoli.jpg
       - title: Mango/possition fruit and black currant
