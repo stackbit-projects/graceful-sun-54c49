@@ -57,7 +57,7 @@ sections:
         title: About Pink
         subtitle: With only natural coloring withoutarificfl adding
         image: images/happy-broccoli.jpg
-      - title: Mango/possition fruit and blakcurrant
+      - title: Mango/possition fruit and blak currant
         title_align: left
         content_align: left
         actions: []
