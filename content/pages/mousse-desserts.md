@@ -134,7 +134,9 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        subtitle: 'Семь слоев - нежный безглютеновый бисквит; '
+        subtitle: >-
+          Семь слоев - нежный безглютеновый бисквит; малиновый крем с кусочками
+          запеченного 
     grid_cols: three
     grid_gap_vert: small
     grid_gap_horiz: small
