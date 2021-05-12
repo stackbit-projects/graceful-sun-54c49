@@ -84,7 +84,7 @@ sections:
         type: grid_item
         title: Зеленое яблоко
         image: images/4.jpg
-        subtitle: 'Легкий с кислинкой '
+        subtitle: Легкий с кислинкой и освежающим вкусом зеленого яблока
       - subtitle: wiht jam
         title_align: left
         content_align: left
