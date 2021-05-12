@@ -113,8 +113,6 @@ sections:
         title: 'Малина, красный апельсин и сладкий перец'
         image: images/6.jpg
       - title_align: left
-        content: |
-          #
         content_align: left
         actions:
           - label: lorem-ipsum
