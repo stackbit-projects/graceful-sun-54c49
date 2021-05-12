@@ -56,7 +56,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Веганская версия шоколада
-        subtitle: With only natural coloring withoutarificfl adding
+        subtitle: 'Без молочных продуктов и животных жиров, без белого сахара'
         image: images/happy-broccoli.jpg
       - title: Mango/possition fruit and black currant
         title_align: left
