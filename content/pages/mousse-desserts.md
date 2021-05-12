@@ -56,7 +56,7 @@ sections:
         type: grid_item
         title: About Pink
         subtitle: With only natural coloring withoutarificfl adding
-        image: images/important-kangaroo.jpg
+        image: images/happy-broccoli.jpg
       - title: Mango/strawberry
         title_align: left
         content_align: left
