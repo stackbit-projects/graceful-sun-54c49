@@ -57,7 +57,7 @@ sections:
         type: grid_item
         title: Веганская версия шоколада
         subtitle: 'Без молочных продуктов и животных жиров, без белого сахара'
-        image: images/happy-broccoli.jpg
+        image: images/melodic-mahogany.jpg
       - title: Mango/possition fruit and black currant
         title_align: left
         content_align: left
