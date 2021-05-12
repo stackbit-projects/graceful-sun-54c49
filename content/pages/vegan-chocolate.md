@@ -43,7 +43,7 @@ sections:
         subtitle: >-
           With organic cacao butter/organic cacao powder/organic agave syrup and
           blue spirulina/purple sweet potato powder
-        image: images/wonderful-petunia.jpg
+        image: images/unique-lavender.jpg
       - title_align: left
         content_align: left
         actions: []
