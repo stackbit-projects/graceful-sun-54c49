@@ -70,7 +70,7 @@ sections:
         image_has_padding: false
         type: grid_item
         image: images/great-sage.jpg
-        subtitle: bla
+        subtitle: black
       - title_align: left
         content_align: left
         actions: []
