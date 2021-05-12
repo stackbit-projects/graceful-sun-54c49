@@ -1,7 +1,7 @@
 ---
 title: The most popular vegan baked cake
 sections:
-  - title: Mousse desserts
+  - title: Vegan chocolate
     actions: []
     image_alt: lorem-ipsum
     media_position: left
