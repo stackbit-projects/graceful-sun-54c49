@@ -40,7 +40,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        title: Macadamia Vanila
+        title: Dark organic chocolate
         subtitle: mouse vegan cake -delicious light dessert with subtle sourness
         image: images/wonderful-petunia.jpg
       - title_align: left
