@@ -111,7 +111,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: 'Малина, красный апельсин и сладкий перец'
-        image: images/6.jpg
+        image: images/best-sparrow.jpg
         subtitle: >-
           Семь слоев; нежный безглютеновый бисквит, , малиновый крем с кусочками
           запеченного перчика, гель, хрустящий малиновый кранч, нежнейший мусс
