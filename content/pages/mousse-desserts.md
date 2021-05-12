@@ -82,7 +82,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: 'Зеленое яблоко, лайм '
+        title: 'Зеленое яблоко, лайм, базилик'
         image: images/4.jpg
         subtitle: Легкий с кислинкой и освежающим вкусом зеленого яблока
       - subtitle: wiht jam
