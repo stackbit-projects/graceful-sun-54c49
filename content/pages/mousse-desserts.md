@@ -112,7 +112,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Raspberry/basil
+        title: 'Малина, красный апельсин и сладкий перец'
         image: images/6.jpg
       - title_align: left
         content: |
