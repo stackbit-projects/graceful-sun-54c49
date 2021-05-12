@@ -85,7 +85,7 @@ sections:
         type: grid_item
         title: Snickers from dutes and almouds and peanut butter
         image: images/cool-cedar.jpg
-        subtitle: Легкий с кислинкой и освежающим вкусом зеленого яблока
+        subtitle: Best dessert for those don'
       - subtitle: 'Нежный мусс и шелковистый гель, крем с кусочками манго'
         title_align: left
         content_align: left
