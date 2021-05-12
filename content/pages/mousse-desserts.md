@@ -112,7 +112,7 @@ sections:
         type: grid_item
         title: 'Малина, красный апельсин и сладкий перец'
         image: images/6.jpg
-        subtitle: Семь слоев; нежный безгл
+        subtitle: Семь слоев; нежный безглютеновый
       - title_align: left
         content_align: left
         actions:
