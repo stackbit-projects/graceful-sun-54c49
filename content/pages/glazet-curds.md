@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/33.jpg
+    image: images/00.jpg
   - title: Cake Types
     actions: []
     grid_items:
