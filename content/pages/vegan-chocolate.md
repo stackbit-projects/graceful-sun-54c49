@@ -112,7 +112,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Truffles
-        image: images/best-sparrow.jpg
+        image: images/energetic-moon.jpg
         subtitle: With green raw buckwhit
       - title_align: left
         content_align: left
