@@ -17,6 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/00.jpg
+    subtitle: Уникальныу
   - title: Glazet curds Types
     actions: []
     grid_items:
