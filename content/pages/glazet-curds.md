@@ -19,7 +19,7 @@ sections:
     image: images/00.jpg
     subtitle: >-
       Уникальные сырки, сделанные  только из натуральных и самых лучших
-      ингридиентов
+      ингридиентов; зеленая гречка
   - title: Glazet curds Types
     actions: []
     grid_items:
