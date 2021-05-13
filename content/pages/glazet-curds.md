@@ -17,7 +17,7 @@ sections:
     background_image_repeat: no-repeat
     type: hero_section
     image: images/00.jpg
-    subtitle: 'Уникальные сырки, сделанные из'
+    subtitle: 'Уникальные сырки, сделанные  только из натуральных и самых лучших '
   - title: Glazet curds Types
     actions: []
     grid_items:
