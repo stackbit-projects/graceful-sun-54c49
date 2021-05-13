@@ -36,7 +36,7 @@ sections:
         image_has_padding: false
         type: grid_item
         title: Snickers
-        subtitle: with coconaut cream
+        subtitle: Made with natural product - dates and nuts. No sugar and preservation
         image: images/11.jpg
       - title_align: left
         content_align: left
