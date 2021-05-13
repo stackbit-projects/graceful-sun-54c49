@@ -113,11 +113,7 @@ sections:
         type: grid_item
         title: Truffles
         image: images/best-sparrow.jpg
-        subtitle: >-
-          Семь слоев; нежный безглютеновый бисквит, , малиновый крем с кусочками
-          запеченного перчика, гель, хрустящий малиновый кранч, нежнейший мусс
-          на основе белка из бобов, зеркальная глазурь из пюре малины и
-          апельсина, кусочки свежей сублимированной малины
+        subtitle: With green raw buckwhit
       - title_align: left
         content_align: left
         actions:
