@@ -85,7 +85,7 @@ sections:
         subtitle: >-
           Три уникальных вкуса - ваниль в темном шоколаде, шоколад в белой
           глазури и ягодный (черная смородина и вишня) в ягодной глазури
-        image: images/44.jpg
+        image: images/pink-sycamore.jpg
       - subtitle: Торт на миндальных безглютеновых коржах и шоколадной карамели
         title_align: left
         content: |
