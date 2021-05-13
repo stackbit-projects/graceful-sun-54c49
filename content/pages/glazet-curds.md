@@ -67,7 +67,7 @@ sections:
         subtitle: >-
           В 75 процентом черном, органическом шоколаде/ какао масло, какао
           порошок, сироп агавы, без белого сахара и консервантов
-        image: images/unique-jupiter.jpg
+        image: images/fabulous-crane.jpg
       - title_align: left
         content: |
           #
