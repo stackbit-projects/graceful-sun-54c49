@@ -81,7 +81,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: Черная смородина и ваниль с шоколадным ганашем
+        title: Новинка!
         subtitle: Торт покрытый веганским домашним шоколадом с супер пудрами
         image: images/44.jpg
       - subtitle: Торт на миндальных безглютеновых коржах и шоколадной карамели
