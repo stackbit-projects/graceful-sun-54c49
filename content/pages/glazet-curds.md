@@ -35,7 +35,7 @@ sections:
         image_align: center
         image_has_padding: false
         type: grid_item
-        title: Black currant cake
+        title: Snickers
         subtitle: with coconaut cream
         image: images/11.jpg
       - title_align: left
