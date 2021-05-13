@@ -1,7 +1,7 @@
 ---
 title: The most popular vegan baked cake
 sections:
-  - title: Cakes
+  - title: Glazet curds
     actions: []
     image_alt: lorem-ipsum
     media_position: left
