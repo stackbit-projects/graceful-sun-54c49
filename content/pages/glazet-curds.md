@@ -51,7 +51,7 @@ sections:
         type: grid_item
         title: Ассорти
         subtitle: 'Без глютена, животных жиров, белого сахара и сои'
-        image: images/22.jpg
+        image: images/diligent-turmeric.jpg
       - title: 'Торт из черной смородины, кокосовых сливок и белого шоколада'
         title_align: left
         content_align: left
