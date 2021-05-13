@@ -16,7 +16,7 @@ sections:
     background_image_position: center center
     background_image_repeat: no-repeat
     type: hero_section
-    image: images/00.jpg
+    image: images/титул.jpg
     subtitle: >-
       Уникальные сырки, сделанные  только из натуральных и самых лучших
       ингридиентов; зеленая гречка, орехи кешью, кешью урбеч, какао масло,
