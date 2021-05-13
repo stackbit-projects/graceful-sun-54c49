@@ -37,7 +37,7 @@ sections:
         type: grid_item
         title: Snickers
         subtitle: Made with natural product - dates and nuts. No sugar and preservation
-        image: images/11.jpg
+        image: images/pleasant-potato.jpg
       - title_align: left
         content_align: left
         actions: []
