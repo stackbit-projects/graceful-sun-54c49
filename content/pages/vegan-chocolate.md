@@ -111,7 +111,7 @@ sections:
         image_align: left
         image_has_padding: false
         type: grid_item
-        title: 'Малина, красный апельсин и сладкий перец'
+        title: Truffles
         image: images/best-sparrow.jpg
         subtitle: >-
           Семь слоев; нежный безглютеновый бисквит, , малиновый крем с кусочками
