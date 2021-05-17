@@ -26,7 +26,8 @@
             {
                 "url": "/contact",
                 "style": "primary",
-                "label": "glassed curds"
+                "label": "glassed curds",
+                "has_icon": true
             },
             {
                 "label": "lorem-ipsum",
