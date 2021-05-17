@@ -20,7 +20,8 @@
             {
                 "label": "mini cakes",
                 "url": "/about",
-                "style": "primary"
+                "style": "primary",
+                "has_icon": true
             },
             {
                 "label": "Contact me",
