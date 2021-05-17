@@ -14,7 +14,7 @@
             {
                 "label": "cakes",
                 "url": "/cakes",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "About",
