@@ -157,7 +157,7 @@ sections:
     title: Vegan dessert and chocolate
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: 'Без глютена, животных жиров, белого сахара и сои.'
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
