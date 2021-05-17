@@ -9,7 +9,6 @@
     "header": {
         "title": "Personal Theme",
         "logo": "images/logo.jpeg",
-        "logo_alt": "Alyvia logo",
         "has_primary_nav": true,
         "primary_nav_links": [
             {
