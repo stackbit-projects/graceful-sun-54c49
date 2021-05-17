@@ -180,8 +180,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - title: Technical Content
-        subtitle: 'Your products and services, at scale.'
+      - subtitle: 'Your products and services, at scale.'
         content: >-
           I will dive into the ins and outs of your product or service and make
           sure the right information is communicated throughout your
