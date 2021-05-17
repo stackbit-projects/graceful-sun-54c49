@@ -25,7 +25,8 @@
             },
             {
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "label": "gla"
             },
             {
                 "label": "lorem-ipsum",
