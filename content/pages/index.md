@@ -154,7 +154,7 @@ sections:
     grid_gap_vert: medium
     actions: []
   - type: features_section
-    title: My services
+    title: Vegan dessert and chocolate
     subtitle: What I do
     features:
       - title: Content Creation
