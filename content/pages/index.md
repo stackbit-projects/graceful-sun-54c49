@@ -195,7 +195,7 @@ sections:
     align: center
     background_color: none
   - type: grid_section
-    title: Testimonials
+    title: Rewies
     subtitle: What My Clients Say
     grid_items:
       - content: >-
