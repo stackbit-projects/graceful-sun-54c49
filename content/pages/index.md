@@ -172,13 +172,7 @@ sections:
         image_alt: Feature 2 illustration
         media_position: right
         media_width: sixty
-      - actions:
-          - label: See Past Work
-            url: /faq
-            style: primary
-            has_icon: true
-            icon: arrow-right
-            icon_position: right
+      - actions: []
         image_alt: Feature 3 illustration
         media_position: right
         media_width: sixty
