@@ -39,7 +39,8 @@
             }
         ],
         "has_secondary_nav": false,
-        "has_anncmnt": false
+        "has_anncmnt": false,
+        "logo_alt": "Полезные сладости могут бытьне только "
     },
     "footer": {
         "logo": "images/logo.svg",
