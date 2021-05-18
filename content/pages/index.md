@@ -72,7 +72,7 @@ sections:
             new_window: false
             no_follow: false
             type: action
-            url: /clazet-
+            url: /clazet-cur
         actions_align: center
         image_position: top
       - image: images/Mousse dsserts.jpg
