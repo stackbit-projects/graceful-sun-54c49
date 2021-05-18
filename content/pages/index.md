@@ -73,14 +73,6 @@ sections:
             new_window: false
             no_follow: false
             type: action
-          - url: '#'
-            style: link
-            has_icon: false
-            icon: arrow-left
-            icon_position: right
-            new_window: false
-            no_follow: false
-            type: action
         actions_align: center
         image_position: top
       - image: images/Mousse dsserts.jpg
