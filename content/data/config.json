@@ -110,11 +110,6 @@
                 "label": "ABOUT",
                 "url": "/terms-conditions",
                 "style": "primary"
-            },
-            {
-                "label": "Privacy Policy",
-                "url": "/privacy-policy",
-                "style": "link"
             }
         ],
         "has_social": true,
