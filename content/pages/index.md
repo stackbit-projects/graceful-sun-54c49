@@ -89,7 +89,7 @@ sections:
             type: action
             label: Mousse desserts
         actions_align: center
-        title: /mousse
+        title: /mousse-d
       - image: images/Vegan chocolate.jpg
         image_alt: Logo 7
         image_align: center
