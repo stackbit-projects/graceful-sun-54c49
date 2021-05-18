@@ -73,7 +73,8 @@
             },
             {
                 "url": "/contact",
-                "style": "link"
+                "style": "link",
+                "label": "gla"
             }
         ],
         "has_secondary_nav": true,
