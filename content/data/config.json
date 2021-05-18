@@ -102,7 +102,7 @@
         "has_secondary_nav": true,
         "secondary_nav_links": [
             {
-                "label": "Style Guide",
+                "label": "Content me",
                 "url": "/style-guide",
                 "style": "link"
             },
