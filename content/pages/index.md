@@ -65,7 +65,6 @@ sections:
         image_align: center
         actions:
           - label: Glazed curds
-            url: '#'
             style: primary
             has_icon: false
             icon: arrow-left
