@@ -69,7 +69,7 @@
             {
                 "label": "Small cakes",
                 "url": "/faq",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "url": "/contact",
