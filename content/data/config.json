@@ -73,7 +73,7 @@
             },
             {
                 "url": "/contact",
-                "style": "link",
+                "style": "primary",
                 "label": "glasset curds"
             },
             {
