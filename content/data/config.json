@@ -109,7 +109,7 @@
             {
                 "label": "ABOUT",
                 "url": "/terms-conditions",
-                "style": "link"
+                "style": "primary"
             },
             {
                 "label": "Privacy Policy",
