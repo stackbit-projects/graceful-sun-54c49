@@ -19,7 +19,7 @@
             },
             {
                 "label": "small cakes",
-                "url": "/about",
+                "url": "/",
                 "style": "primary",
                 "has_icon": true
             },
