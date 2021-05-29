@@ -19,6 +19,10 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
     image: images/десерты.png
+    content: |
+      *   Organic
+
+      *   Gluten free
   - type: grid_section
     title: Vegan desserts and chocolate
     align: center
