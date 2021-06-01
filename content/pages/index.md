@@ -1,7 +1,7 @@
 ---
 sections:
   - type: hero_section
-    title: Raw_treats_by_mila
+    title: Raw Treats By Mila
     subtitle: Raw vegan desserts and chocolate
     actions:
       - label: Contact Me
