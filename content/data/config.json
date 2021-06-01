@@ -25,7 +25,7 @@
             },
             {
                 "url": "/contact",
-                "style": "primary",
+                "style": "link",
                 "label": "glassed curds",
                 "has_icon": true
             },
