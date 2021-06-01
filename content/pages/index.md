@@ -171,12 +171,10 @@ sections:
     title: Rewies
     subtitle: What My Clients Say
     grid_items:
-      - content: >-
-          Alyvia is an amazing content writer. She helped us produce microcopy
-          for our apps in all levels of user touchpoints.
-
-
-          **Hanson Deck,** *App Developer, Studio*
+      - content: >
+          I have been particular about my bday cake since i was 4. Now 40 yrs
+          later I still have to have it made to my taste, elegant design and
+          barely sweet
         image: images/beige-lavender.jpg
         image_position: left
         image_width: twenty-five
