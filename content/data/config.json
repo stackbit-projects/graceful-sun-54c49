@@ -20,7 +20,7 @@
             {
                 "label": "small cakes",
                 "url": "/mini-cakes",
-                "style": "primary",
+                "style": "secondary",
                 "has_icon": true
             },
             {
