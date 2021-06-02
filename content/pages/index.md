@@ -118,8 +118,7 @@ sections:
       - image_alt: Logo 8
         image_align: center
         actions:
-          - label: Honey cakes
-            url: '#'
+          - url: '#'
             style: primary
             has_icon: false
             icon: arrow-left
