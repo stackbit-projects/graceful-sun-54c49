@@ -46,7 +46,7 @@ sections:
       - title_align: center
         content_align: center
         actions:
-          - label: Small cakes
+          - label: 'Mini '
             url: /mini-cakes
             style: primary
             has_icon: false
