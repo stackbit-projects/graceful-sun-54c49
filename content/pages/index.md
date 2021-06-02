@@ -115,8 +115,7 @@ sections:
             type: action
             label: Vegan chocolate
         actions_align: center
-      - image: images/Honey cakes.jpg
-        image_alt: Logo 8
+      - image_alt: Logo 8
         image_align: center
         actions:
           - label: Honey cakes
