@@ -18,7 +18,7 @@ sections:
     background_image_repeat: repeat
     background_image_size: contain
     background_image_opacity: 8
-    image: images/десерты.png
+    image: images/главная.jpg
     content: |
       *   Organic
 
