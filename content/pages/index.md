@@ -192,7 +192,7 @@ sections:
 
 
           **Eleanor Carr,** *CTO, eCommerce Business*
-        image: images/eleanor-carr.png
+        image: images/majestic-lime.jpg
         image_position: left
         image_width: twenty-five
       - content: >-
