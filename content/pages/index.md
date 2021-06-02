@@ -68,7 +68,7 @@ sections:
         image_alt: Logo 2
         image_align: center
         actions:
-          - label: Glazed curds
+          - label: Glazzed curds
             style: primary
             has_icon: false
             icon: arrow-left
