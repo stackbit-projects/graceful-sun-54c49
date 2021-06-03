@@ -176,12 +176,10 @@ sections:
         image: images/beige-lavender.jpg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          Alyvia really understands who our customers are and what tone of voice
-          to use when communicating with them.
+      - content: |
+          Thank you raw treats by Mila!
 
-
-          **Miles Tone,** *CEO, Studio*
+          For such a dilightful treat!
         image: images/smiling-comet.jpg
         image_position: left
         image_width: twenty-five
