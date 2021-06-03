@@ -4,7 +4,7 @@ sections:
     title: Raw Treats By Mila
     subtitle: Raw vegan desserts and chocolate
     actions:
-      - label: O
+      - label: Order
         url: /contact
         style: primary
     image_alt: A smiling woman
