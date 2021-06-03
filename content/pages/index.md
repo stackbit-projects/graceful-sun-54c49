@@ -188,12 +188,10 @@ sections:
         image: images/majestic-lime.jpg
         image_position: left
         image_width: twenty-five
-      - content: >-
-          I love it when a content writer can really wordsmith and create copy
-          that suits the design intention and style!
+      - content: |
+          Thank you so much Mila Georgiev!
 
-
-          **Gordon Norman,** *Web Designer, Local Business*
+          The cake was talk of the party and we totally enjoyed it!
         image: images/parallel-eggplant.jpg
         image_position: left
         image_width: twenty-five
